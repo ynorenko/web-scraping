@@ -1,0 +1,6 @@
+selenium==3.8.1
+ipython==6.4.0
+ipython-genutils==0.2.0
+msgpack-python==0.5.6
+python-dateutil==2.7.3
+
